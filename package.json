@@ -1,0 +1,15 @@
+{
+  "name": "gowasm",
+  "version": "1.0.0",
+  "description": "GO to WASM in the browser",
+  "main": "public/index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
